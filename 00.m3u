@@ -1,9 +1,10 @@
 #EXTM3U list-name="Canales PlutoTV" list-image="https://ia601602.us.archive.org/27/items/spn-l-48/SP%C3%91L%20%2848%29.png" author="Clic aqui para mas listas ðŸ˜" author-url="https://bit.ly/listas-app"
 
-#EXTINF:-1 tvg-id="5ba3fb9c4b078e0f37ad34e8" tvg-chno="51" tvg-logo="https://ia601602.us.archive.org/27/items/spn-l-48/SP%C3%91L%20%2848%29.png" group-title="USA",Pluto TV Spotlight
+#EXTINF:-1 tvg-id="5ba3fb9c4b078e0f37ad34e8" tvg-chno="51" tvg-logo="https://ia601602.us.archive.org/27/items/spn-l-48/SP%C3%91L%20%2848%29.png" group-title="USA",Listas PRO
 https://ia800506.us.archive.org/31/items/videoapp2/Blue%20Modern%20Movie%20Streaming%20Facebook%20Ad%20%281%29.mp4
-#EXTINF:-1 tvg-id="5ba3fb9c4b078e0f37ad34e8" tvg-chno="51" tvg-logo="https://images.pluto.tv/channels/5ba3fb9c4b078e0f37ad34e8/colorLogoPNG.png" group-title="USA",Pluto TV Spotlight
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="5ba3fb9c4b078e0f37ad34e8" tvg-chno="51" tvg-logo="https://ia800507.us.archive.org/23/items/diseno-sin-titulo-2_202310/Dise%C3%B1o%20sin%20t%C3%ADtulo%20%282%29.png" group-title="USA",Peliculas
+https://ia801401.us.archive.org/2/items/vip2_rsluis/45b231cbb95a1c7de23d421dc7f4d4b85701132d92fb628de034a11d8fddbf9a.mp4
 
 #EXTINF:-1 tvg-id="561d7d484dc7c8770484914a" tvg-chno="54" tvg-logo="https://images.pluto.tv/channels/561d7d484dc7c8770484914a/colorLogoPNG.png" group-title="USA",Pluto TV Action
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
